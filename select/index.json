@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "理由 (2009 Remaster)",
+  "base_artist": "Yutaka Ozaki",
+  "createdAt": "2025-12-26T16:04:26.742716Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "理由",
+      "artist": "黄泉",
+      "has_synced": true,
+      "path": "select/01_理由_黄泉.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "理由",
+      "artist": "Sandy Lam",
+      "has_synced": true,
+      "path": "select/02_理由_Sandy_Lam.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "理由",
+      "artist": "WeiBird",
+      "has_synced": true,
+      "path": "select/03_理由_WeiBird.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "理由",
+      "artist": "林忆莲",
+      "has_synced": false,
+      "path": "select/04_理由_林忆莲.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "理由",
+      "artist": "林忆莲",
+      "has_synced": true,
+      "path": "select/05_理由_林忆莲.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "理由",
+      "artist": "賴銘偉",
+      "has_synced": false,
+      "path": "select/06_理由_賴銘偉.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "理由",
+      "artist": "林憶蓮",
+      "has_synced": true,
+      "path": "select/07_理由_林憶蓮.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "理由",
+      "artist": "赖铭伟",
+      "has_synced": false,
+      "path": "select/08_理由_赖铭伟.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "理由 (WAKE)",
+      "artist": "Dir En Grey",
+      "has_synced": true,
+      "path": "select/09_理由_(WAKE)_Dir_En_Grey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "理由",
+      "artist": "尾崎 豊",
+      "has_synced": false,
+      "path": "select/pl_01_理由_尾崎_豊.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "理由",
+      "artist": "尾崎 豊",
+      "has_synced": false,
+      "path": "select/pl_02_理由_尾崎_豊.txt"
+    }
+  ]
+}
